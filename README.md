@@ -10,7 +10,7 @@ Low-level developer passionate about systems programming, game engine architectu
 
 ### 🛠️ What I'm Working On
 
-* **WyVerM** (to-be released open-source): A custom virtualization operating system designed for custom CPU/GPU architecture emulators and passing GPUs.
+* **WyVerM**: A custom virtualization operating system designed for custom CPU/GPU architecture emulators and passing GPUs.
 * [**Starlight**](https://github.com/twotyped/starlight): A Hardware Abstraction Layer (HAL) and Graphical API unifying platform-dependent window creation, event loops, and more and the grueling process of abstracting multiple Graphical APIs.
 * **SoraEngine** (proprietary): A proprietary game engine built from scratch.
 * **Six Tails** (proprietary): The debut dystopian story game powered by SoraEngine.
