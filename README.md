@@ -9,7 +9,7 @@
 ### What I'm Working On
 * **WyVerM** (currently private): A custom virtualization operating system designed for custom CPU/GPU architecture emulators and passing GPUs.
 * [**Starlight**](https://github.com/twotyped/starlight): A Hardware Abstraction Layer (HAL) and Graphical API unifying platform-dependent window creation, event loops, and more and the grueling process of abstracting multiple Graphical APIs.
-* [**SoraEngine**](https://github.com/twotyped/SoraEngine): A proprietary game engine built from scratch.
+* [**SoraEngine**](https://github.com/twotyped/SoraEngine): My game engine built from scratch in C++; mostly just meant to have a lot of custom stuff I wanted to build.
 * **Miscellaneous**: I also work on a bunch of other stuff—like developer tool applications, 9th-gen console emulation, and more, but a lot of it is private.
 
 ---
